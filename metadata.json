@@ -1,0 +1,5 @@
+{
+  "name": "ER Triage AI",
+  "description": "An expert Emergency Room Triage AI for instant patient classification and resource allocation.",
+  "requestFramePermissions": ["microphone"]
+}
